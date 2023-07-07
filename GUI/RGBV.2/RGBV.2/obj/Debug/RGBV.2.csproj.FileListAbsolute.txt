@@ -1,0 +1,13 @@
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\bin\Debug\RGBV.2.exe.config
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\bin\Debug\RGBV.2.exe
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\bin\Debug\RGBV.2.pdb
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV.2.csproj.AssemblyReference.cache
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV._2.Form1.resources
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV._2.Properties.Resources.resources
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV.2.csproj.GenerateResource.cache
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV.2.csproj.CoreCompileInputs.cache
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV.2.csproj.CopyComplete
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV.2.exe
+C:\Users\Pathorn\source\repos\RGBV.2\RGBV.2\obj\Debug\RGBV.2.pdb
